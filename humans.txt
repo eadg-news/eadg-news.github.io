@@ -1,0 +1,5 @@
+
+/* TEAM */ Developer: Richard Astbury Contact: richard.astbury@gmail.com Site:
+https://www.eadg.news
+
+/* SITE */ Doctype: HTML5

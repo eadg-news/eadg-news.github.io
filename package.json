@@ -18,7 +18,7 @@
     "build:11ty": "cross-env ELEVENTY_ENV=production eleventy",
     "start": "npm run dev:11ty",
     "build": "npm run clean && npm run build:11ty",
-    "deploy": "npm run build && npx gh-pages -d dist"
+    "deploy": "npm run build && cp ./CNAME ./dist/ && npx gh-pages -d dist"
   },
   "keywords": [],
   "repository": {

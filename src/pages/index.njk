@@ -1,8 +1,8 @@
 ---
 layout: base
 permalink: /index.html
-title: 'Eleventy Excellent'
-description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
+title: 'EADG NEWS'
+description: 'A news and reviews blog for bass guitars.'
 blog:
   title: 'Blog'
   intro: "I'm showing the last 4 blog posts, but there might be more!"
@@ -43,7 +43,7 @@ blog:
       <div class="feature |  region region-space-l">
         <custom-masonry layout="50-50">
           {% set itemList = collections.allPosts %}
-					{% asyncEach item in itemList.slice(0, 4) %}
+					{% asyncEach item in itemList %}
             {% set headingLevel = "h3" %}
 						{% include "partials/card-blog.njk" %}
 					{% endeach %}

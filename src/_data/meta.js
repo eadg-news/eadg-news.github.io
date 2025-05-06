@@ -1,7 +1,7 @@
 export const url = process.env.URL || 'http://localhost:8080';
 // Extract domain from `url`
 export const domain = new URL(url).hostname;
-export const siteName = 'EADG News';
+export const siteName = 'EADG NEWS';
 export const siteDescription = 'A news and reviews blog for bass guitars';
 export const siteType = 'Person'; // schema
 export const locale = 'en_EN';

@@ -1,6 +1,7 @@
 .logo {
-  --gutter: var(--space-xs);
-  padding: var(--space-s) 0;
-  font-size: var(--size-step-0);
-  text-decoration: none;
+  width: 150px;
+  height: 384px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0%);
 }

@@ -5,6 +5,8 @@ date: 2025-05-14
 tags: ['harley-benton', 'bass', 'stingray']
 ---
 
+![Harley Benton MB-4 SBK](./mb4-sbk.jpg)
+
 **Why I Bought the Harley Benton MB-4 SBK—and Why I’m Keeping It**
 
 After sending back a Sterling by Music Man Stingray Ray SUB 4, I found myself on the hunt for a bass that wouldn’t break the bank but still delivered in all the ways that matter: sound, build, feel, and style. Enter the **Harley Benton MB-4 SBK**—a budget-friendly beast that surprised me in all the best ways.
@@ -46,3 +48,5 @@ All things considered, the Harley Benton MB-4 SBK punches way above its weight. 
 If you’re okay with a couple of minor quirks—and maybe swapping out the tuners down the line—you’ll find a lot to love here. Whether you're just starting out or need a solid backup bass, the MB-4 SBK is a serious contender.
 
 **Would I buy it again? Absolutely.**
+
+[Harley Benton MB-4 SBK product page](https://harleybenton.com/product/mb-4-sbk/)

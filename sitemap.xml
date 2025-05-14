@@ -8,176 +8,7 @@
       
 
       <url>
-        <loc>http://localhost:8080/blog/post-with-fetched-content/</loc>
-        <lastmod>2022-08-28T00:00:00.000Z</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    
-  
-    
-
-      
-        
-      
-
-      <url>
-        <loc>http://localhost:8080/blog/post-with-301-redirects/</loc>
-        <lastmod>2022-08-28T00:00:00.000Z</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    
-  
-    
-
-      
-        
-      
-
-      <url>
-        <loc>http://localhost:8080/blog/post-with-some-code/</loc>
-        <lastmod>2022-09-01T00:00:00.000Z</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    
-  
-    
-
-      
-        
-      
-
-      <url>
-        <loc>http://localhost:8080/blog/post-with-a-video/</loc>
-        <lastmod>2022-10-31T00:00:00.000Z</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    
-  
-    
-
-      
-        
-      
-
-      <url>
-        <loc>http://localhost:8080/blog/post-with-all-the-markdown/</loc>
-        <lastmod>2022-11-02T00:00:00.000Z</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    
-  
-    
-
-      
-        
-      
-
-      <url>
-        <loc>http://localhost:8080/blog/open-graph-images/</loc>
-        <lastmod>2023-01-25T00:00:00.000Z</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    
-  
-    
-
-      
-        
-      
-
-      <url>
-        <loc>http://localhost:8080/blog/demo-pages/</loc>
-        <lastmod>2023-10-30T00:00:00.000Z</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    
-  
-    
-
-      
-        
-      
-
-      <url>
-        <loc>http://localhost:8080/blog/what-is-tailwind-css-doing-here/</loc>
-        <lastmod>2023-11-30T00:00:00.000Z</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    
-  
-    
-
-      
-        
-      
-
-      <url>
-        <loc>http://localhost:8080/blog/post-with-a-gallery/</loc>
-        <lastmod>2024-01-30T00:00:00.000Z</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    
-  
-    
-
-      
-        
-      
-
-      <url>
-        <loc>http://localhost:8080/blog/eleventy-excellent-20/</loc>
-        <lastmod>2024-02-01T00:00:00.000Z</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    
-  
-    
-
-      
-        
-      
-
-      <url>
-        <loc>http://localhost:8080/blog/eleventy-excellent-30/</loc>
-        <lastmod>2024-06-03T00:00:00.000Z</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    
-  
-    
-
-      
-        
-      
-
-      <url>
-        <loc>http://localhost:8080/blog/post-with-an-image/</loc>
-        <lastmod>2025-01-09T00:00:00.000Z</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    
-  
-    
-
-      
-        
-      
-
-      <url>
-        <loc>http://localhost:8080/blog/eleventy-excellent-40/</loc>
-        <lastmod>2025-01-11T00:00:00.000Z</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    
-  
-    
-
-      
-        
-      
-
-      <url>
-        <loc>http://localhost:8080/tags/feature/</loc>
+        <loc>http://localhost:8080/tags/bass/</loc>
         <lastmod>2025-05-06T15:02:10.487Z</lastmod>
         <changefreq>monthly</changefreq>
     </url>
@@ -327,6 +158,19 @@
     </url>
     
   
+    
+  
+    
+
+      
+        
+      
+
+      <url>
+        <loc>http://localhost:8080/blog/harley-benton-mb-4-sbk/</loc>
+        <lastmod>2025-05-14T00:00:00.000Z</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
     
   
 </urlset>

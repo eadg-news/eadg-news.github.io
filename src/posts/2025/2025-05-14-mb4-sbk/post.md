@@ -9,7 +9,7 @@ tags: ['harley-benton', 'bass', 'stingray']
 
 **Why I Bought the Harley Benton MB-4 SBK—and Why I’m Keeping It**
 
-After sending back a Sterling by Music Man Stingray Ray SUB 4, I found myself on the hunt for a bass that wouldn’t break the bank but still delivered in all the ways that matter: sound, build, feel, and style. Enter the **Harley Benton MB-4 SBK**—a budget-friendly beast that surprised me in all the best ways.
+After sending back a [Sterling by Music Man Stingray Ray S.U.B 4](/blog/sterling-by-music-man-sub-sting-ray-4/), I found myself on the hunt for a bass that wouldn’t break the bank but still delivered in all the ways that matter: sound, build, feel, and style. Enter the **Harley Benton MB-4 SBK**—a budget-friendly beast that surprised me in all the best ways.
 
 ### First Impressions
 

@@ -50,3 +50,13 @@ If you’re okay with a couple of minor quirks—and maybe swapping out the tune
 **Would I buy it again? Absolutely.**
 
 [Harley Benton MB-4 SBK product page](https://harleybenton.com/product/mb-4-sbk/)
+
+### Back to Black
+
+![Harley Benton MB-4 SBK with black pick guard](./black-pick-guard.jpg)
+
+One thing that bothered me was the tort pickguard. It just didn’t match the sleek black aesthetic of the rest of the instrument. 
+
+The [Musically pickguard](https://amzn.eu/d/clZIQRN) on Amazon fitted with a small amount of trimming at the neck pocket, and it's 9 holes didn't quite line up with the original 7, but it works well enough.
+
+BTW - You can see the fingerprints and dust that the matte finish picks up :¬)

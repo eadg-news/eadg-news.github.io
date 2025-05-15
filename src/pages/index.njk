@@ -6,13 +6,11 @@ description: '⚡ news and reviews for bass guitars ⚡'
 ---
 
 <div class="wrapper">
-  <header class="full | section" style="--spot-color: var(--color-primary)">
-    <div class="section__inner flow region">
-      <img src="/assets/images/template/eadg-logo.png" alt="EADG NEWS" class="logo" />
-      <h1 class="text-center" style="color: var(--color-light); margin-top: 400px">{{ title }}</h1>
-      <h3 class="text-center" style="color: var(--color-light);">{{ description }}</h3>
+  <header class="full | section" style="--spot-color: var(--color-primary); background-image: url('/assets/images/template/jazz-bass.jpg'); background-size: cover; background-position: center;">
+    <div class="flow region">
+        <h1 class="text-right" style="color: var(--color-light); margin-top: 400px; margin-right: 20px;">{{ title }}</h1>
+      <h3 class="text-right" style="color: var(--color-light);">{{ description }}</h3>
     </div>
-    {% svg "divider/waves", null, "divider" %}
   </header>
 
   <article class="full | region">

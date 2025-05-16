@@ -1,7 +1,7 @@
 {
   "name": "EADG NEWS - A news and reviews blog for bass guitars",
   "short_name": "EADG NEWS",
-  "start_url": "http://localhost:8080",
+  "start_url": "https://www.eadg.news",
   "icons": [
     {
       "src": "/icon-192x192.png",
